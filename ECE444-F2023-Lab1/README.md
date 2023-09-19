@@ -5,4 +5,5 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ## Activity 2
 ![A2](screenshots/a2.png)
 ## Activity 3
+![A3](screenshots/a3.png)
 ## Activity 4
