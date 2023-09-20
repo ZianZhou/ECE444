@@ -7,3 +7,7 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ## Activity 3
 ![A3](screenshots/a3.png)
 ## Activity 4
+![A4](screenshots/a4a.png)
+![A4](screenshots/a4b.png)
+![A4](screenshots/a4c.png)
+![A4](screenshots/a4d.png)
