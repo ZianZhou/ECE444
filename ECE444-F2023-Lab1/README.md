@@ -8,4 +8,8 @@ Cleaned up README
 ![A2](screenshots/docker2.png)
 
 ## Activity 3
-![A2](screenshots/docker3.png)
+![A3](screenshots/docker3.png)
+
+## Activity 4
+![A4a](screenshots/docker4a.png)
+![A4b](screenshots/docker4b.png)
